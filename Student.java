@@ -1,4 +1,8 @@
 import java.util.Vector;
+/** Jachimike Ezenwamadu
+* 100783161
+*
+*/
 
 
 public class Student extends Person{
