@@ -1,2 +1,2 @@
 # Course-Registration-System
-assignment-2-JachiEze created by GitHub Classroom
+This is a java program that helps to register stduents for courses
